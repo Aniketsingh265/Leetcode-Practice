@@ -24,10 +24,10 @@ public:
                 }
             }
        }
-       vector<vector<int>>ans;
+       vector<vector<int>>res;
        for(auto x : st){
-        ans.push_back(x);
+        res.push_back(x);
        }
-       return ans;
+       return res;
     }
 };
