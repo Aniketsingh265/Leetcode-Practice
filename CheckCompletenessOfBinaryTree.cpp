@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isCompleteTree(TreeNode* root) {
-        // using BFS , we will use queue.
+        // using BFS , we will use queueueueue.
         queue<TreeNode*>qu;
         qu.push(root);
         bool past = false;
