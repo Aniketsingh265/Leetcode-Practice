@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+## Array
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
