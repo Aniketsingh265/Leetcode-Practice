@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
