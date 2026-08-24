@@ -41,4 +41,20 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
