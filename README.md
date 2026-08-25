@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
