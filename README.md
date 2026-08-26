@@ -44,6 +44,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Tree
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
