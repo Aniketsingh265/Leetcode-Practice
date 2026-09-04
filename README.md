@@ -32,6 +32,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
