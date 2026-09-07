@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
