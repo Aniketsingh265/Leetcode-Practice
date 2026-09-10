@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 | [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
