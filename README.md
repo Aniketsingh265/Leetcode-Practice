@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
@@ -93,5 +94,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
