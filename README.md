@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -44,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -99,8 +101,13 @@
 | ------- |
 | [0072-edit-distance](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
+| [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
