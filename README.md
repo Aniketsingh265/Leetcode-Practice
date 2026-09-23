@@ -16,6 +16,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -27,12 +28,14 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 | [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,6 +99,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
