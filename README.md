@@ -39,6 +39,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
