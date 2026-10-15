@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 | [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
+| [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
@@ -110,6 +112,7 @@
 | [0072-edit-distance](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
+| [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,5 +128,6 @@
 ## Greedy
 |  |
 | ------- |
+| [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
