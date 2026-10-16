@@ -16,6 +16,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0740-delete-and-earn](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -35,6 +36,7 @@
 | [0001-two-sum](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 | [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -112,6 +114,7 @@
 | [0072-edit-distance](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
+| [0740-delete-and-earn](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 ## Breadth-First Search
 |  |
