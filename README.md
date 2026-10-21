@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -114,11 +115,13 @@
 | [0072-edit-distance](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [0740-delete-and-earn](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -133,4 +136,12 @@
 | ------- |
 | [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
