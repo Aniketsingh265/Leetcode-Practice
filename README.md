@@ -41,6 +41,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0279-perfect-squares) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,4 +148,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0279-perfect-squares) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
