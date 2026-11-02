@@ -35,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0120-triangle) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0739-daily-temperatures](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0740-delete-and-earn) |
 | [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0279-perfect-squares) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1402-reducing-dishes](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/1402-reducing-dishes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aniketsingh265/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
